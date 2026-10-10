@@ -1,48 +1,58 @@
+# Hola, soy Marcos (K1T0S) 👋
 
-# K1t0s
+Soy de Pinto (Madrid) y trabajo en operaciones de energía renovable. Me paso el día entre SCADA, datos y ciberseguridad. Ahora mismo soy **MCC Operator en Sonnedix**: desde el centro de control supervisamos más de 600 plantas solares y eólicas en 9 países (más de 4,7 GW).
 
-A brief presentation.
+Lo que más me gusta de mi trabajo es automatizar. Uso IA para que el diagnóstico de incidencias en planta sea más rápido y no dependa tanto de revisarlo todo a mano.
 
+Además de eso, la ciberseguridad es lo que me tira: hago laboratorios de pentesting y CTFs y sigo formándome en seguridad e IA.
 
+## 🔧 En qué ando
 
-## ¡Hola\! Soy Marcos Sánchez Ortiz 👋
+- ⚡ **Operación de renovables:** monitorización 24/7 con SCADA / N3uron, gestión de alarmas e incidencias y órdenes de trabajo en eMaint (CMMS).
+- 🤖 **IA aplicada:** agentes con Claude para automatizar diagnósticos y tareas repetitivas del centro de control.
+- 🛡️ **Ciberseguridad:** pentesting y CTFs (pivoting con Ligolo-ng, explotación de CVEs conocidas, Burp Suite), y herramientas propias.
+- 🚗 **Maxter Autos:** soy socio y desarrollador de un concesionario en Illescas; llevo la web (frontend y backend) y la parte técnica.
 
-Especialista en ciberseguridad y sistemas IT con un enfoque en la protección de activos digitales y la optimización de infraestructuras críticas. Mi experiencia abarca desde roles operativos en grandes corporaciones hasta el emprendimiento digital.
+## 🧪 Proyectos
 
-### 🛠️ Habilidades Técnicas
+| Proyecto | Qué es |
+|---|---|
+| **k1tzs** | Escáner de red y vulnerabilidades en Python sobre Nmap |
+| **k1tOshhh** | Gestor de contraseñas con cifrado AES-256 |
+| **AI Trading Platform** | Investigación cuantitativa, backtesting y paper trading de crypto con un motor de riesgo que puede vetar operaciones. Solo simulación, sin dinero real |
+| **Maxter Autos** | Web y backend del concesionario |
 
-  * **Ciberseguridad:** Análisis de amenazas, SIEM (Security Information and Event Management) y respuesta a incidentes.
-  * **Sistemas & Redes:** Administración y manejo de Windows, Ubuntu y Kali Linux.
-  * **Bases de Datos:** Conocimiento en SQL y Access.
-  * **Programación:** Python, C y HTML.
-  * **Herramientas IT:** ServiceNow, Hyrens Boot.
+## 🧰 Stack
 
-### 💼 Experiencia Profesional
+**Lenguajes y desarrollo:** Python · TypeScript / React · FastAPI · SQL · Bash · Claude (agentes y skills)
 
-  * **Operador de Sistemas en TCS** (Agosto 2025 - Actualidad):
-      * Supervisión 24/7 de infraestructuras críticas y sistemas de monitorización.
-      * Gestión de incidencias con SLA empresarial.
-  * **Técnico Informático en TCS** (Marzo 2025 - Julio 2025):
-      * Administración de sistemas de ticketing empresarial (ServiceNow).
-      * Soporte técnico especializado L2 y configuración de hardware.
-  * **Consultor IT Independiente** (2023 - Actualidad):
-      * Diagnóstico y resolución de problemáticas sistémicas complejas.
-      * Recuperación de datos y optimización de sistemas.
+**Datos e industria:** Palantir Foundry · Snowflake · N3uron / SCADA · eMaint (CMMS)
 
-### 🎓 Formación y Certificaciones
-
-  * **Máster en Ciberseguridad** - INESEM Business School (2022-2023).
-  * **Técnico en Sistemas Microinformáticos y Redes** - IFP (2023-2025).
-  * **Certificado en Ciberseguridad (ISC2)**.
-  * **Junior Cybersecurity Analyst (Cisco)**.
-  * **Cybersecurity Certificate (Google)**.
-  * **En proceso:** CompTIA A+ & Security+.
-
-### 🌐 Conéctate conmigo
-
-  * **LinkedIn:** [linkedin.com/in/marcos-sanchez-833223365](https://www.google.com/search?q=https://linkedin.com/in/marcos-sanchez-833223365)
-  * **Correo electrónico:** jsanchez77.e7@gmail.com
+**Seguridad y sistemas:** Burp Suite · Nmap · Kali / Ubuntu / Windows Server · Docker
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" title="Ethereum" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,mysql,bash,linux,kali,ubuntu,windows,docker,git&perline=12" alt="stack" />
 </p>
+
+## 🎓 Formación y certificaciones
+
+- **CFGS ASIR + perfil de Ciberseguridad** · iFP (2025 – 2027)
+- **Máster en Ciberseguridad e IA** · Evolve (completado en 2026)
+- **ISC2 CC** (Certified in Cybersecurity)
+- **eJPT v2** · INE
+- **CCA-F** · Anthropic
+- **Cisco Junior Cybersecurity Analyst**
+- **Google Cybersecurity Certificate**
+
+Tengo 13 certificaciones en total; el resto están en LinkedIn. También hice el Curso de Mercado Eléctrico de Ingebau para entender mejor la parte de negocio del sector.
+
+## 💼 Experiencia
+
+- **MCC Operator · Sonnedix** (feb 2026 – actualidad): monitorización SCADA de la flota global, incidencias N1 con SLA 24/7, análisis de producción y herramientas internas con IA.
+- **Operador de Sistemas · TCS** (jun 2025 – feb 2026): monitorización SCADA para el proyecto de Sonnedix, incidencias N1 y análisis de logs.
+- **Técnico Informático · TCS** (mar 2025 – jun 2025): soporte técnico, ticketing y escritorio remoto.
+- **Desarrollador y socio · Maxter Autos** (ene 2024 – actualidad): desarrollo web y atención al cliente.
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--sanchez--ortiz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-sanchez-ortiz)
