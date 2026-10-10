@@ -1,6 +1,6 @@
 # Hola, soy Marcos (K1T0S) 👋
 
-Soy de Pinto (Madrid) y trabajo en operaciones de energía renovable. Me paso el día entre SCADA, datos y ciberseguridad. Ahora mismo soy **MCC Operator en Sonnedix**: desde el centro de control supervisamos más de 600 plantas solares y eólicas en 9 países (más de 4,7 GW).
+Soy de Madrid y trabajo en operaciones de energía renovable. Me paso el día entre SCADA, datos y ciberseguridad. Ahora mismo soy **MCC Operator en Sonnedix**: desde el centro de control supervisamos más de 600 plantas solares y eólicas en 9 países (más de 4,7 GW).
 
 Lo que más me gusta de mi trabajo es automatizar. Uso IA para que el diagnóstico de incidencias en planta sea más rápido y no dependa tanto de revisarlo todo a mano.
 
