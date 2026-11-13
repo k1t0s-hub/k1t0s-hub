@@ -1,58 +1,64 @@
-# Hola, soy Marcos (K1T0S) 👋
+# Hi, I'm Marcos Sánchez Ortiz 👋
 
-Soy de Madrid y trabajo en operaciones de energía renovable. Me paso el día entre SCADA, datos y ciberseguridad. Ahora mismo soy **MCC Operator en Sonnedix**: desde el centro de control supervisamos más de 600 plantas solares y eólicas en 9 países (más de 4,7 GW).
+Technical operations professional based in Madrid, Spain, working at the intersection of **renewable energy, automation, applied AI and cybersecurity**.
 
-Lo que más me gusta de mi trabajo es automatizar. Uso IA para que el diagnóstico de incidencias en planta sea más rápido y no dependa tanto de revisarlo todo a mano.
+I work as an **MCC Operator at Sonnedix**, monitoring international renewable energy operations through SCADA, investigating operational issues and coordinating L1 incident resolution. Alongside operations, I build tools and integrations that help teams diagnose issues and reduce repetitive work.
 
-Además de eso, la ciberseguridad es lo que me tira: hago laboratorios de pentesting y CTFs y sigo formándome en seguridad e IA.
+## What I work on
 
-## 🔧 En qué ando
+- **Technical operations:** SCADA / N3uron monitoring, log and production-data analysis, incident coordination and eMaint / CMMS workflows.
+- **Automation and applied AI:** Python, APIs and Claude-based tools for operational diagnostics and cross-system workflows.
+- **Software development:** React / TypeScript, FastAPI, SQL and Bash.
+- **Cybersecurity:** six months of professional security-alert analysis with **Microsoft Sentinel and Microsoft Defender, under supervision**. **Wazuh** experience comes from labs and training.
+- **Continuous learning:** hands-on security labs, networking and systems administration.
 
-- ⚡ **Operación de renovables:** monitorización 24/7 con SCADA / N3uron, gestión de alarmas e incidencias y órdenes de trabajo en eMaint (CMMS).
-- 🤖 **IA aplicada:** agentes con Claude para automatizar diagnósticos y tareas repetitivas del centro de control.
-- 🛡️ **Ciberseguridad:** pentesting y CTFs (pivoting con Ligolo-ng, explotación de CVEs conocidas, Burp Suite), y herramientas propias.
-- 🚗 **Maxter Autos:** soy socio y desarrollador de un concesionario en Illescas; llevo la web (frontend y backend) y la parte técnica.
+## Selected project areas
 
-## 🧪 Proyectos
+| Project | Focus |
+| --- | --- |
+| Operational AI tools | Assistants and integrations supporting renewable-energy diagnostics and workflows |
+| Network and vulnerability scanner | Personal Python / Nmap project with multithreading and HTML, JSON and CSV reports |
+| Password manager | Personal CLI project using AES-256 encryption |
+| Automotive web development | Full-stack website and backend development |
 
-| Proyecto | Qué es |
-|---|---|
-| **k1tzs** | Escáner de red y vulnerabilidades en Python sobre Nmap |
-| **k1tOshhh** | Gestor de contraseñas con cifrado AES-256 |
-| **AI Trading Platform** | Investigación cuantitativa, backtesting y paper trading de crypto con un motor de riesgo que puede vetar operaciones. Solo simulación, sin dinero real |
-| **Maxter Autos** | Web y backend del concesionario |
+Some of my work is private. This profile describes my experience; it does not provide access to internal employer tools, code or operational data.
 
-## 🧰 Stack
+## Tools and technologies
 
-**Lenguajes y desarrollo:** Python · TypeScript / React · FastAPI · SQL · Bash · Claude (agentes y skills)
+**Development:** Python · TypeScript · React · FastAPI · SQL · Bash · APIs
 
-**Datos e industria:** Palantir Foundry · Snowflake · N3uron / SCADA · eMaint (CMMS)
+**Operations and data:** N3uron / SCADA · Palantir Foundry · Snowflake · eMaint / CMMS · ServiceNow
 
-**Seguridad y sistemas:** Burp Suite · Nmap · Kali / Ubuntu / Windows Server · Docker
+**Security and systems:** Microsoft Sentinel · Microsoft Defender · Wazuh (labs) · Kali Linux · Nmap · Burp Suite · Wireshark · Linux · Windows Server
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,mysql,bash,linux,kali,ubuntu,windows,docker,git&perline=12" alt="stack" />
-</p>
+## Experience
 
-## 🎓 Formación y certificaciones
+- **Sonnedix — MCC Operator** · February 2026–present  
+  SCADA monitoring, L1 incident coordination, log analysis and operational automation.
+- **Tata Consultancy Services — Systems Operator, Sonnedix project** · July 2025–February 2026  
+  Critical-infrastructure monitoring, L1 incidents and performance-log analysis.
+- **Tata Consultancy Services — IT Technician, Iberia project** · March–June 2025  
+  ServiceNow ticketing, L1 technical support and storage-incident resolution.
+- **Web development and co-founder experience** · Since January 2024  
+  Full-stack development and digital operations in the automotive sector.
 
-- **CFGS ASIR + perfil de Ciberseguridad** · iFP (2025 – 2027)
-- **Máster en Ciberseguridad e IA** · Evolve (completado en 2026)
-- **ISC2 CC** (Certified in Cybersecurity)
-- **eJPT v2** · INE
-- **CCA-F** · Anthropic
-- **Cisco Junior Cybersecurity Analyst**
-- **Google Cybersecurity Certificate**
+## Education and certifications
 
-Tengo 13 certificaciones en total; el resto están en LinkedIn. También hice el Curso de Mercado Eléctrico de Ingebau para entender mejor la parte de negocio del sector.
+- Higher vocational training in **Network Systems Administration (ASIR), cybersecurity track**, iFP — in progress, expected March 2027.
+- Cybersecurity & AI programme, Evolve — completed July 2026.
+- Technician in Microcomputer Systems and Networks, iFP.
+- **eJPT v2** — INE / eLearnSecurity.
+- **Certified in Cybersecurity (CC)** — ISC2.
+- **AI Fluency Framework & Foundations** — Anthropic.
+- Cisco Junior Cybersecurity Analyst Career Path.
+- Google Cybersecurity Certificate.
 
-## 💼 Experiencia
+**Languages:** Spanish (native) · English (B2).
 
-- **MCC Operator · Sonnedix** (feb 2026 – actualidad): monitorización SCADA de la flota global, incidencias N1 con SLA 24/7, análisis de producción y herramientas internas con IA.
-- **Operador de Sistemas · TCS** (jun 2025 – feb 2026): monitorización SCADA para el proyecto de Sonnedix, incidencias N1 y análisis de logs.
-- **Técnico Informático · TCS** (mar 2025 – jun 2025): soporte técnico, ticketing y escritorio remoto.
-- **Desarrollador y socio · Maxter Autos** (ene 2024 – actualidad): desarrollo web y atención al cliente.
+## Connect
 
-## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/marcos-sanchez-ortiz)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--sanchez--ortiz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-sanchez-ortiz)
+---
+
+También puedes escribirme en español. Me interesan las oportunidades donde pueda combinar operaciones técnicas, automatización, IA aplicada y ciberseguridad.
